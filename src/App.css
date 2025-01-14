@@ -1,0 +1,20 @@
+.home{
+    position: fixed;
+    margin-left: 1195px;
+    top: 29px;
+    color: white;
+}
+
+.page{
+    position: fixed;
+    margin-left: 1250px;
+    top: 29px;
+    color: white;
+}
+
+.page2{
+    position: fixed;
+    margin-left: 1300px;
+    top: 29px;
+    color: white;
+}
